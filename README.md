@@ -3,7 +3,7 @@
 
 <h1>
   Hello Fellow &lt; Developers/ &gt;!
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" width="40" align="absmiddle"/>
 </h1>
 
 <!-- Typing animation -->
@@ -21,13 +21,13 @@
 </p>
 
 <ul>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="22"/> Hi, I’m Viviana</li>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="22"/> I'm a Software Engineer</li>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22"/> Turning ideas into full-stack code across web, mobile, and desktop.</li>
-  <li><img src="https://github.githubassets.com/images/icons/emoji/neckbeard.png" width="22"/> Dedicated to engineering seamless user experiences and rock-solid backend architectures.</li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" width="22" align="absmiddle"/> Hi, I’m Viviana</li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" width="22" align="absmiddle"/> I'm a Software Engineer</li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" width="22" align="absmiddle"/> Turning ideas into full-stack code across web, mobile, and desktop.</li>
+  <li><img src="https://github.githubassets.com/images/icons/emoji/neckbeard.png" width="22" align="absmiddle"/> Dedicated to engineering seamless user experiences and rock-solid backend architectures.</li>
 </ul>
 
-## Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32"/>
+## Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" width="40" align="absmiddle"/>
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-## GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32"/>
+## GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" width="40" align="absmiddle"/>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabrinasalomon&theme=tokyonight" width="100%" alt="Profile details" />
