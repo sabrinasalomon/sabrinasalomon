@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200">
+  <style>
+    .title { font: 600 22px 'Segoe UI', Ubuntu, sans-serif; fill: #70a5fd; }
+    .label { font: 400 14px 'Segoe UI', Ubuntu, sans-serif; fill: #38bdae; }
+  </style>
+  <rect x="0.5" y="0.5" width="339" height="199" rx="4.5" fill="#1a1b27"/>
+  <text x="25" y="42" class="title">Top Languages</text>
+
+  <rect x="30" y="66" width="12" height="12" fill="#3572A5"/>
+  <text x="50" y="77" class="label">Python 41.4%</text>
+  <rect x="30" y="93" width="12" height="12" fill="#f1e05a"/>
+  <text x="50" y="104" class="label">JavaScript 39.6%</text>
+  <rect x="30" y="120" width="12" height="12" fill="#a91e50"/>
+  <text x="50" y="131" class="label">EJS 15.4%</text>
+  <rect x="30" y="147" width="12" height="12" fill="#663399"/>
+  <text x="50" y="158" class="label">CSS 3.7%</text>
+
+  <g transform="rotate(-90 255 115)" fill="none" stroke-width="28">
+    <circle cx="255" cy="115" r="50" stroke="#3572A5" stroke-dasharray="130.06 314.16" stroke-dashoffset="0"/>
+    <circle cx="255" cy="115" r="50" stroke="#f1e05a" stroke-dasharray="124.41 314.16" stroke-dashoffset="-130.06"/>
+    <circle cx="255" cy="115" r="50" stroke="#a91e50" stroke-dasharray="48.38 314.16" stroke-dashoffset="-254.47"/>
+    <circle cx="255" cy="115" r="50" stroke="#663399" stroke-dasharray="11.31 314.16" stroke-dashoffset="-302.85"/>
+  </g>
+</svg>
