@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=180&section=header&text=Hi%2C%20I%27m%20Viviana&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <h1>
-  Hello Fellow &lt; Developers/ &gt;!
+  Hello &lt; Developers &gt;!
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" width="40" align="absmiddle"/>
 </h1>
 
