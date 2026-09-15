@@ -7,14 +7,18 @@
 </h1>
 
 <!-- Typing animation -->
+<p>
 <a href="https://github.com/sabrinasalomon">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C77DFF&vCenter=true&width=500&lines=Web+%26+Desktop+Developer;TypeScript+%7C+C%23+%7C+Electron;Automations+with+n8n" alt="Typing SVG"/>
 </a>
+</p>
 
 
+<p>
 <a href="mailto:vivianasalomonbol@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+</p>
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="22"/> Hi, I’m Viviana</li>
