@@ -22,7 +22,7 @@
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" width="22" align="absmiddle"/> Hi, I’m Viviana</li>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" width="22" align="absmiddle"/> I'm a Software Engineer</li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" width="22" align="absmiddle"/> Software engineering student</li>
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" width="22" align="absmiddle"/> Turning ideas into full-stack code across web, mobile, and desktop.</li>
   <li><img src="https://github.githubassets.com/images/icons/emoji/neckbeard.png" width="22" align="absmiddle"/> Dedicated to engineering seamless user experiences and rock-solid backend architectures.</li>
 </ul>
